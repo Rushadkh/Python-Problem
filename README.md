@@ -6,10 +6,12 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [1854-maximum-population-year](https://github.com/Rushadkh/Python-Problem/tree/master/1854-maximum-population-year) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Union-Find
 |  |
 | ------- |
@@ -22,4 +24,12 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Rushadkh/Python-Problem/tree/master/1854-maximum-population-year) |
+## Two Pointers
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
