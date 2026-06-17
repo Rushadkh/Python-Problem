@@ -7,6 +7,10 @@ class Solution:
                     for k in range(j,len(nums)):
                         if nums[k]-nums[j]==diff:
                             count += 1
+                        if nums[k]-nums[j]>diff:
+                            break
+                if nums[j]-nums[i]>diff:
+                    break
         return count
 
 
