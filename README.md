@@ -7,6 +7,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [1854-maximum-population-year](https://github.com/Rushadkh/Python-Problem/tree/master/1854-maximum-population-year) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rushadkh/Python-Problem/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rushadkh/Python-Problem/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
