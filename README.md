@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
+| [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
 | [1854-maximum-population-year](https://github.com/Rushadkh/Python-Problem/tree/master/1854-maximum-population-year) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushadkh/Python-Problem/tree/master/2553-separate-the-digits-in-an-array) |
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Rushadkh/Python-Problem/tree/master/2553-separate-the-digits-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
