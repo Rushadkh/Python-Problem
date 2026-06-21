@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Rushadkh/Python-Problem/tree/master/1480-running-sum-of-1d-array) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
 ## Greedy
 |  |
