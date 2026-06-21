@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Rushadkh/Python-Problem/tree/master/1480-running-sum-of-1d-array) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Rushadkh/Python-Problem/tree/master/0414-third-maximum-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
