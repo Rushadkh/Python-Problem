@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushadkh/Python-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rushadkh/Python-Problem/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Rushadkh/Python-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Union-Find
