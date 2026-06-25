@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Rushadkh/Python-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushadkh/Python-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
@@ -69,6 +70,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rushadkh/Python-Problem/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0392-is-subsequence](https://github.com/Rushadkh/Python-Problem/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
