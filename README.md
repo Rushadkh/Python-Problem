@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Rushadkh/Python-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rushadkh/Python-Problem/tree/master/0015-3sum) |
+| [0392-is-subsequence](https://github.com/Rushadkh/Python-Problem/tree/main/0392-is-subsequence/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rushadkh/Python-Problem/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -65,4 +66,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Rushadkh/Python-Problem/tree/main/0169-majority-element/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Rushadkh/Python-Problem/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Rushadkh/Python-Problem/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
